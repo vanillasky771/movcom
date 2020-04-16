@@ -1,6 +1,6 @@
 # MovCom
 Movie Commendation App
   
-Data from IMBD API  : https://api.themoviedb.org. <br>
-Design Reference    : Arvea <br>
+Data from IMBD API  : https://api.themoviedb.org. \
+Design Reference    : Arvea \
 Pods                : AlamoFire, SDWebImage, UIScrollView-InfiniteScroll
