@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.1.0)
+  - CollectionViewSlantedLayout (3.1.1)
+  - SDWebImage (5.7.2):
+    - SDWebImage/Core (= 5.7.2)
+  - SDWebImage/Core (5.7.2)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.1)
+  - CollectionViewSlantedLayout (~> 3.1)
+  - SDWebImage (~> 5.0)
+  - UIScrollView-InfiniteScroll (~> 1.1.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CollectionViewSlantedLayout
+    - SDWebImage
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  CollectionViewSlantedLayout: 24397455acd2461960bc45d394e0ef99c17d03ce
+  SDWebImage: d9ea4959d99c52276dfada481987018fcaea3d58
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: 998c739a41e89fe454ed906c605ec2ed1c4ffe93
+
+COCOAPODS: 1.8.3
